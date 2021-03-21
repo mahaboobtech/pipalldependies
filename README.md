@@ -14,6 +14,7 @@ okay lets begun
 
 
 1. type the command in terminal 
+ 
  pip3 list -o >> file.txt
  
 2. python3 m
