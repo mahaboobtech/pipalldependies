@@ -15,7 +15,13 @@ okay lets begun
 
 1. type the command in terminal 
  
- pip3 list -o >> file.txt
+    pip3 list -o >> file.txt
  
-2. python3 m
- 
+2. type the command in terminal 
+    
+    python3 pythonfilename.py
+    
+3. atlast type the command on terminal
+    pip3 install -r filename.txt
+    
+    
