@@ -22,6 +22,7 @@ okay lets begun
     python3 getpipdep.py
     
 3. atlast type the command on terminal
+    
     pip3 install -r pipdep.txt
     
     
