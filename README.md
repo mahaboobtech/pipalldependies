@@ -19,9 +19,9 @@ okay lets begun
  
 2. type the command in terminal 
     
-    python3 pythonfilename.py
+    python3 getpipdep.py
     
 3. atlast type the command on terminal
-    pip3 install -r filename.txt
+    pip3 install -r gg.txt
     
     
