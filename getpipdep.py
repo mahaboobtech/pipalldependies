@@ -3,7 +3,7 @@ import re
 f = open("file.txt",'r+')
 pata = f.read()
 comp = []
-comp.append(re.findall(r"^\w[a-zA-Z0-9-]*",pata,flags=re.MULTILINE))
+comp.append(re.findall(r"^\w[a-zA-Z0-9-.]*",pata,flags=re.MULTILINE))
 f.close()
 print(len(comp[0]))
 print(comp[0])
