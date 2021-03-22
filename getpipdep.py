@@ -8,7 +8,7 @@ f.close()
 print(len(comp[0]))
 print(comp[0])
 g = open("pipdep.txt","w+")
-for l in range (len(comp[0])):
+for l in range (1,len(comp[0])):
     g.writelines(str(comp[0][l]))
     g.write("\n")
 g.seekable()
