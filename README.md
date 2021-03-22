@@ -5,7 +5,6 @@ like
 pip3 install -r requirments.txt
 
 so i would like to do like that so i prepared this code 
-note : this works for linux only 
 
 i know there is other single line command but this is my code feels me happy , useful and  understandable
 
